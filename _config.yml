@@ -1,7 +1,6 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
+title:          Tidal Elegy
+description:    "Pleasant, dry dream!"
 url:            "https://forwardoves.github.io"
 
 # Google Analytics
@@ -9,9 +8,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Latios G.
+  url:          https://forwardoves.github.io
+  email:        latios.guo@mail.utoronto.ca
 
 # Build settings
 markdown:       kramdown
