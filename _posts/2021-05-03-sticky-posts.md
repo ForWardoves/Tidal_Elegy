@@ -19,3 +19,6 @@ By default, sticky posts are still included in the paginated posts. To exclude a
 ## Example
 
 See the ["Introducing Tale" post](https://github.com/chesterhow/tale/blob/master/_posts/2017-03-29-introducing-tale.md).
+
+### Video Trails: 
+<div>{%- include extensions/youtube.html id='wbY97-hdD5c' -%}</div>
