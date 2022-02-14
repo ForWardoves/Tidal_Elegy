@@ -7,6 +7,13 @@ excerpt_separator: <!--more-->
 hidden: true
 ---
 
+<style>
+  code {
+    white-space : pre-wrap !important;
+    word-break: break-word;
+  }
+</style>
+
 ### 2022-02-14 4:16 AM
 
 {% highlight markdown %}
