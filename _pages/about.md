@@ -1,15 +1,17 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Latios G."
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+用来暂时码放各类补给的地方。感谢~~恐梨~~ ~~色梨~~ 冻梨在搭建过程中提供的诸多教导。
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+补给可能被用来分布于bilibili、NGA、或discord。
+
+想来唠嗑唠嗑？来这里：[AKCN](https://discord.gg/AKCN)
 
 ## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+- 本页面基于Tale Theme和Github Page搭建，感谢ChesterHow的精巧构思。Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
 
-Thanks for reading!
+- [冻梨的页面](https://frospirum.github.io/)。
