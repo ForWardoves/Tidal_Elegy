@@ -2,7 +2,6 @@
 layout: post
 title: "Starlight"
 author: "Latios G."
-tags: Personal
 excerpt_separator: <!--more-->
 hidden: true
 ---
